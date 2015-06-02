@@ -1,0 +1,28 @@
+{
+  "name": "humanitarian-icons-webfont",
+  "version": "0.0.1",
+  "homepage": "https://github.com/sazl/Humanitarian-Icons-WebFont",
+  "authors": [
+    "Sami Zeinelabdin <sami.zeinelabdin@wfp.org>"
+  ],
+  "description": "A web font created from UN OCHA's set of humanitarian icons",
+  "main": "style.css",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "UN",
+    "OCHA",
+    "humanitarian",
+    "icons",
+    "webfont"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
